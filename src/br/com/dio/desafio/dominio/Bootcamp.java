@@ -57,7 +57,7 @@ public class Bootcamp {
         this.conteudos = conteudos;
     }
 
-        //como estamos trabalhando com Hash, gerar equals & hash Code (usar Alt Insert)
+    //como estamos trabalhando com Hash, gerar equals & hash Code (usar Alt Insert)
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
